@@ -27,7 +27,7 @@ Conheça nossos particiantes:
 - [x] Rafael Emídio Duarte [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/rafael-emidio-duarte-86697135)
 
 - [x] Thiago Lima [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/rafael-emidio-duarte-86697135)
-- [ ] .
+- [ ] Inserir nomes
 - [ ] .
 - [ ] .
 
